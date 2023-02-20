@@ -1,2 +1,2 @@
-# Demo_1
-1st demo lecture of git 
+# TestbookClass_1
+1st testbook lecture of git 
